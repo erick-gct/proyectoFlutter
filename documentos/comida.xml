@@ -1,0 +1,38 @@
+<breakfast_menu>
+<food>
+<name>Belgian Waffles</name>
+<price>5.95</price>
+<description>Two of our famous Belgian Waffles with plenty of real maple syrup</description>
+<calories>650</calories>
+<image>https://houseofnasheats.com/wp-content/uploads/2021/09/Best-Belgian-Waffles-1.jpg</image>
+</food>
+<food>
+<name>Strawberry Belgian Waffles</name>
+<price>7.95</price>
+<description>Light Belgian waffles covered with strawberries and whipped cream</description>
+<calories>900</calories>
+<image>https://i0.wp.com/cupcakes-and-sarcasm.com/wp-content/uploads/2018/10/0CBB3C05-E91F-457F-B3D4-877FA6E04113.jpeg?fit=3710%2C3021&ssl=1</image>
+
+</food>
+<food>
+<name>Berry-Berry Belgian Waffles</name>
+<price>8.95</price>
+<description>Light Belgian waffles covered with an assortment of fresh berries and whipped cream</description>
+<calories>900</calories>
+<image>https://alifeplus.com.au/cdn/shop/products/KetoWafflesandKetoBerrySauce1crop.png?v=1601865440</image>
+</food>
+<food>
+<name>French Toast</name>
+<price>4.50</price>
+<description>Thick slices made from our homemade sourdough bread</description>
+<calories>600</calories>
+<image>https://sugarspunrun.com/wp-content/uploads/2023/08/French-Toast-recipe-1-of-1.jpg</image>
+</food>
+<food>
+<name>Homestyle Breakfast</name>
+<price>6.95</price>
+<description>Two eggs, bacon or sausage, toast, and our ever-popular hash browns</description>
+<calories>950</calories>
+<image>https://grandmascatering.com/images/thumbs/0000010_homestyle-breakfast_550.jpeg</image>
+</food>
+</breakfast_menu>
