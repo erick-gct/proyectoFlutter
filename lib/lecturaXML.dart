@@ -147,36 +147,4 @@ class _LecturaXML extends State<LecturadeXML> {
   }
 
   // The UI displays the correct number of food items from the 'comidas' list
-
-  Widget _plantas() {
-    return ListView.builder(
-      itemCount: plantas.length,
-      itemBuilder: (context, index) {
-        return Container(
-          padding: const EdgeInsets.all(4.0),
-          child: Card(
-              child: ListTile(
-            title: Text(plantas[index].nombre,
-                style: const TextStyle(fontWeight: FontWeight.bold)),
-            subtitle: Column(
-                crossAxisAlignment: CrossAxisAlignment.center,
-                children: [
-                  Text('Nombre: ${plantas[index].nombre}'),
-                  Text('Botanical: ${plantas[index].botanical}'),
-                  Text('Zona: ${plantas[index].zona}'),
-                  Text('Light: ${plantas[index].light}'),
-                  Text('Precio: ${plantas[index].precio} €'),
-                  Text('Disponibilidad: ${plantas[index].disponibilidad}'),
-                  /* Container(
-                      width: 85.0,
-                      height: 95.0,
-                      child: Image(image: NetworkImage(plantas[index].imagen)
-                          
-                          )), */
-                ]),
-          )),
-        );
-      },
-    );
-  }
 }
