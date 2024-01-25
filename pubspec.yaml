@@ -39,6 +39,9 @@ dependencies:
   http: ^1.2.0
   webfeed: ^0.7.0
   xml: ^5.4.1
+  sqflite:
+  flutter_datetime_picker: ^1.5.1
+  path_provider: ^2.0.5
 
 dev_dependencies:
   flutter_test:
@@ -66,7 +69,9 @@ flutter:
   assets:
   - documentos/comida.xml
   - documentos/Planta.xml
-  - documentos/receta.xml
+  - images/principal.jpg
+  - images/registroo.jpg
+  - images/editar.jpg
       
   #   - images/a_dot_ham.jpeg
 

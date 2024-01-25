@@ -1,0 +1,29 @@
+[{
+    "id": 1,
+    "nombre": "GalaxyS7",
+    "marca": "Samsung",
+    "almacenamiento": "256GB",
+    "image": "https://cdn.alloallo.media/catalog/product/samsung/galaxy-s/galaxy-s7-edge/galaxy-s7-edge-black-onyx-front.jpg"
+    
+  }, {
+    "id": 2,
+    "nombre": "GalaxyS9",
+    "marca": "Samsung",
+    "almacenamiento": "256GB",
+    "image": "https://img.mobgsm.com/pictures/samsung/samsung-galaxy-s9-1.webp"
+    
+  }, {
+    "id": 3,
+    "nombre": "GalaxyS22",
+    "marca": "Samsung",
+    "almacenamiento": "256GB",
+    "image": "https://clicel.com/cdn/shop/products/Galaxy-S22-ultra_grande.jpg?v=1665589272"
+    
+  }, {
+    "id": 4,
+    "nombre": "GalaxyS23",
+    "marca": "Samsung",
+    "almacenamiento": "256GB",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_607001-MLU71541490170_092023-O.webp"
+    
+  }]
